@@ -46,11 +46,11 @@
         };
 };
 
-#define LOWER_LAYER 1  /* symbol keys */
-#define RAISE_LAYER 2  /* number keys */
-#define FUNC_LAYER 3   /* functional keys */
-#define BT_LAYER 4     /* bluetooth */
-#define UG_LAYER 5     /* underglow */
+#define LOWER_LAYER 1
+#define RAISE_LAYER 2
+#define FUNC_LAYER 3
+#define BT_LAYER 4
+#define UG_LAYER 5
 
 / {
         behaviors {
